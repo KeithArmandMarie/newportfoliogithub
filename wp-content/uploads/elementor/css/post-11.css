@@ -1,0 +1,25 @@
+.elementor-kit-11{--e-global-color-primary:#F3F3F3;--e-global-color-secondary:#FF0808;--e-global-color-text:#F3F3F3;--e-global-color-accent:#FF0808;--e-global-color-kadence1:#2B6CB0;--e-global-color-kadence2:#215387;--e-global-color-kadence3:#F3F3F3;--e-global-color-kadence4:#F3F3F3;--e-global-color-kadence5:#F3F3F3;--e-global-color-kadence6:#F3F3F3;--e-global-color-kadence7:#EDF2F7;--e-global-color-kadence8:#F7FAFC;--e-global-color-kadence9:#FFFFFF;--e-global-typography-primary-font-family:"Aeonik";--e-global-typography-primary-font-size:80px;--e-global-typography-primary-font-weight:500;--e-global-typography-secondary-font-family:"Aeonik";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Aeonik";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;font-family:"Aeonik", Sans-serif;font-size:16px;font-weight:400;background-color:#131314;}.elementor-kit-11.el-is-editing{--global-palette1:#2B6CB0;--global-palette2:#215387;--global-palette3:#F3F3F3;--global-palette4:#F3F3F3;--global-palette5:#F3F3F3;--global-palette6:#F3F3F3;--global-palette7:#EDF2F7;--global-palette8:#F7FAFC;--global-palette9:#FFFFFF;}.elementor-kit-11 h1{font-family:"Aeonik", Sans-serif;font-size:50px;font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1440px;}.e-con{--container-max-width:1440px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-11 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Aeonik';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2024/05/Aeonik-Medium.eot');
+	src: url('/wp-content/uploads/2024/05/Aeonik-Medium.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2024/05/Aeonik-Medium.woff2') format('woff2'),
+		url('/wp-content/uploads/2024/05/Aeonik-Medium.woff') format('woff'),
+		url('/wp-content/uploads/2024/05/Aeonik-Medium.ttf') format('truetype'),
+		url('/wp-content/uploads/2024/05/Aeonik-Medium.svg#Aeonik') format('svg');
+}
+@font-face {
+	font-family: 'Aeonik';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('/wp-content/uploads/2024/05/Aeonik.eot');
+	src: url('/wp-content/uploads/2024/05/Aeonik.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2024/05/Aeonik.woff2') format('woff2'),
+		url('/wp-content/uploads/2024/05/Aeonik.woff') format('woff'),
+		url('/wp-content/uploads/2024/05/Aeonik.ttf') format('truetype'),
+		url('/wp-content/uploads/2024/05/Aeonik.svg#Aeonik') format('svg');
+}
+/* End Custom Fonts CSS */
